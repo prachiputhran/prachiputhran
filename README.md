@@ -18,9 +18,6 @@ I'm an engineer who builds data-driven solutions, ML prototypes, and BI dashboar
 **Data Engineering:** Airflow, AWS (S3, Lambda), Docker  
 **Other:** Git, GitHub Actions, REST APIs, Jupyter, VS Code  
 
-## 📊 GitHub Stats  
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=default)
-
 ## 📝 What I’m Currently Learning  
 - MLOps best practices (model deployment, monitoring, CI/CD)  
 - Feature stores and scalable ML pipelines  
