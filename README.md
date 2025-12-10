@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi — I'm Prachi Puthran 👋  
+**AI | Business Intelligence | Data Analytics | Business Analyst**
 
-<!--
-**prachiputhran/prachiputhran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer who builds data-driven solutions, ML prototypes, and BI dashboards that convert raw data into business insights. I love end-to-end workflows: data collection → modeling → visualization → storytelling.
 
-Here are some ideas to get you started:
+## 🔭 What I Do
+- Build & deploy ML models (NLP, CV, tabular ML) for real-world applications.  
+- Design executive dashboards in **Power BI** to support business decisions.  
+- Transform messy data into clean, structured datasets using **Python, SQL, ETL tools**.  
+- Analyze business problems, define KPIs, and generate actionable insights.  
+- Communicate technical findings in simple, business-friendly language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools  
+**Languages:** Python, SQL, R  
+**ML / DL:** scikit-learn, TensorFlow, PyTorch, Hugging Face  
+**Data & BI:** Power BI, Tableau, NumPy, pandas  
+**Databases:** MySQL, PostgreSQL, MongoDB, BigQuery  
+**Data Engineering:** Airflow, AWS (S3, Lambda), Docker  
+**Other:** Git, GitHub Actions, REST APIs, Jupyter, VS Code  
+
+## 📊 GitHub Stats  
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=default)
+
+## 📝 What I’m Currently Learning  
+- MLOps best practices (model deployment, monitoring, CI/CD)  
+- Feature stores and scalable ML pipelines  
+- Advanced Power BI (DAX patterns, custom themes)  
+
+## ⚡ Fun Facts  
+- I love designing data visualizations.  
+- I enjoy reading case studies on product analytics and business strategy.  
