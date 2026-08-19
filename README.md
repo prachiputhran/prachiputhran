@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Explainable+AI+Researcher;Building+Interpretable+ML+Systems;Applying+to+MS+Programs+%7C+Fall+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Explainable+AI+Researcher;Building+Interpretable+ML+Systems" alt="Typing SVG" />
 
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://your-image-host.com/gradcam-banner.png" alt="Grad-CAM visualization on retinal scan" width="700"/>
-  <br>
-  <sub><i>Grad-CAM heatmap from a retinal disease classifier — explaining what the model actually sees</i></sub>
+  <img src="https://raw.githubusercontent.com/prachiputhran/prachiputhran/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
 </p>
 
 <div align="center">
@@ -19,9 +19,6 @@ $ whoami
 $ current_focus
 > Multi-label retinal disease classification (PyTorch + EfficientNet)
 > Grad-CAM / SHAP / LIME for model interpretability
-
-$ status
-> Building a 4-project AI/ML portfolio → applying to NYU + peer MS programs
 ```
 
 </div>
@@ -50,10 +47,6 @@ $ status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachiputhran&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachiputhran&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachiputhran&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="45%" />
 </p>
 
 -----
