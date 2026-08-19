@@ -52,6 +52,6 @@ $ current_focus
 $ echo "explainability isn't optional — it's the whole point"
 ```
 
-📫 Reach me: [your-email] · [LinkedIn]
+📫 Reach me: [prachiputhran12@gmail.com] · [https://www.linkedin.com/in/prachiputhran/]
 
 </div>
