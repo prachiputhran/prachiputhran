@@ -41,7 +41,7 @@ $ current_focus
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prachiputhran&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=prachiputhran&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=prachiputhran&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 -----
