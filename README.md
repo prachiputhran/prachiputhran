@@ -1,10 +1,5 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Explainable+AI+Researcher;Building+Interpretable+ML+Systems" alt="Typing SVG" />
-
-</div>
-
-<br>
+<h1 align="center">Hi, I'm Prachi 👋</h1>
+<p align="center"><b>Computer Vision Engineer · Explainable AI</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prachiputhran/prachiputhran/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
@@ -45,8 +40,8 @@ $ current_focus
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachiputhran&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachiputhran&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prachiputhran&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=prachiputhran&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 -----
